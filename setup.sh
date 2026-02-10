@@ -32,11 +32,11 @@ termux-setup-storage
 cd $HOME/TermuX-Custom
 cp login.sh $PREFIX/etc
 chmod +x login.sh delete.sh setup.sh sound_effect.py banner.sh update.sh
-mkdir -p $HOME/TermuX-Custom/Song 
-mv Access-Granted.mp3 Jarvis2.mp3 JARVIS.mp3 sound_effect.py $HOME/TermuX-Custom/Song
+mkdir -p $HOME/Termux-Custom/Song 
+mv Access-Granted.mp3 Jarvis2.mp3 JARVIS.mp3 sound_effect.py $HOME/Termux-Custom/Song
 rm 1
-mkdir -p $HOME/TermuX-Custom/NETWORK
-mv network.py $HOME/TermuX-Custom/NETWORK
+mkdir -p $HOME/Termux-Custom/NETWORK
+mv network.py $HOME/Termux-Custom/NETWORK
 
 # Prompt user for update
 read -p "Do you want to update the repository now? (y/n): " choice
