@@ -29,7 +29,7 @@ pkg install termux-api -y
 echo -e "\033[31m\033[1m        INSTALLATION COMPLETED \033[32m[\033[36m✓\033[32m]" | pv -qL 12
 echo -e "\033[33m\033[1m]────────────────────────────────────────────["
 termux-setup-storage
-cd $HOME/TermuX-Custom
+cd $HOME/Termux-Custom
 cp login.sh $PREFIX/etc
 chmod +x login.sh delete.sh setup.sh sound_effect.py banner.sh update.sh
 mkdir -p $HOME/Termux-Custom/Song 
