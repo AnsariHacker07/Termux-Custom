@@ -357,7 +357,7 @@ echo -e "\033[32m\033[1m
   \033[31mWarning: \033[37mDon't Forget Your \033[35mUsername \033[37mand \033[35mPassword
   \033[33m________________________________________________________
 
-     \033[1m\033[36mTool Name       \033[32m: \033[33mTermuX-Custom
+     \033[1m\033[36mTool Name       \033[32m: \033[33mTermux-Custom
      \033[1m\033[36mAuthor Name     \033[32m: \033[33mAnsariHacker07
      \033[1m\033[36mCountry         \033[32m: \033[33mIndia
      \033[1m\033[36mCity           \033[32m: \033[33mNagpur
