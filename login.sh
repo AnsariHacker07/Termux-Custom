@@ -41,7 +41,7 @@ if [[ \$pass == $password && \$user == $username ]]; then
 sleep 3
 clear
 cd $HOME
-cd Termux-Custom
+cd Termux-Custom/Song
 python sound_effect.py
 clear
 cd $HOME 
